@@ -1,0 +1,197 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Lab03
+  name: Lab03
+  href: api/Lab03.html
+  commentId: N:Lab03
+  fullName: Lab03
+  nameWithType: Lab03
+- uid: Lab03.Circle
+  name: Circle
+  href: api/Lab03.Circle.html
+  commentId: T:Lab03.Circle
+  fullName: Lab03.Circle
+  nameWithType: Circle
+- uid: Lab03.Circle.#ctor
+  name: Circle()
+  href: api/Lab03.Circle.html#Lab03_Circle__ctor
+  commentId: M:Lab03.Circle.#ctor
+  fullName: Lab03.Circle.Circle()
+  nameWithType: Circle.Circle()
+- uid: Lab03.Circle.#ctor(System.Double)
+  name: Circle(Double)
+  href: api/Lab03.Circle.html#Lab03_Circle__ctor_System_Double_
+  commentId: M:Lab03.Circle.#ctor(System.Double)
+  fullName: Lab03.Circle.Circle(System.Double)
+  nameWithType: Circle.Circle(Double)
+- uid: Lab03.Circle.#ctor(System.Double,System.String)
+  name: Circle(Double, String)
+  href: api/Lab03.Circle.html#Lab03_Circle__ctor_System_Double_System_String_
+  commentId: M:Lab03.Circle.#ctor(System.Double,System.String)
+  fullName: Lab03.Circle.Circle(System.Double, System.String)
+  nameWithType: Circle.Circle(Double, String)
+- uid: Lab03.Circle.#ctor(System.Double,System.String,System.String)
+  name: Circle(Double, String, String)
+  href: api/Lab03.Circle.html#Lab03_Circle__ctor_System_Double_System_String_System_String_
+  commentId: M:Lab03.Circle.#ctor(System.Double,System.String,System.String)
+  fullName: Lab03.Circle.Circle(System.Double, System.String, System.String)
+  nameWithType: Circle.Circle(Double, String, String)
+- uid: Lab03.Circle.#ctor(System.Double,System.String,System.String,System.Double,System.Double)
+  name: Circle(Double, String, String, Double, Double)
+  href: api/Lab03.Circle.html#Lab03_Circle__ctor_System_Double_System_String_System_String_System_Double_System_Double_
+  commentId: M:Lab03.Circle.#ctor(System.Double,System.String,System.String,System.Double,System.Double)
+  fullName: Lab03.Circle.Circle(System.Double, System.String, System.String, System.Double, System.Double)
+  nameWithType: Circle.Circle(Double, String, String, Double, Double)
+- uid: Lab03.Circle.#ctor*
+  name: Circle
+  href: api/Lab03.Circle.html#Lab03_Circle__ctor_
+  commentId: Overload:Lab03.Circle.#ctor
+  isSpec: "True"
+  fullName: Lab03.Circle.Circle
+  nameWithType: Circle.Circle
+- uid: Lab03.Circle.Print
+  name: Print()
+  href: api/Lab03.Circle.html#Lab03_Circle_Print
+  commentId: M:Lab03.Circle.Print
+  fullName: Lab03.Circle.Print()
+  nameWithType: Circle.Print()
+- uid: Lab03.Circle.Print*
+  name: Print
+  href: api/Lab03.Circle.html#Lab03_Circle_Print_
+  commentId: Overload:Lab03.Circle.Print
+  isSpec: "True"
+  fullName: Lab03.Circle.Print
+  nameWithType: Circle.Print
+- uid: Lab03.Geom_Figure
+  name: Geom_Figure
+  href: api/Lab03.Geom_Figure.html
+  commentId: T:Lab03.Geom_Figure
+  fullName: Lab03.Geom_Figure
+  nameWithType: Geom_Figure
+- uid: Lab03.Geom_Figure.#ctor
+  name: Geom_Figure()
+  href: api/Lab03.Geom_Figure.html#Lab03_Geom_Figure__ctor
+  commentId: M:Lab03.Geom_Figure.#ctor
+  fullName: Lab03.Geom_Figure.Geom_Figure()
+  nameWithType: Geom_Figure.Geom_Figure()
+- uid: Lab03.Geom_Figure.#ctor(System.String)
+  name: Geom_Figure(String)
+  href: api/Lab03.Geom_Figure.html#Lab03_Geom_Figure__ctor_System_String_
+  commentId: M:Lab03.Geom_Figure.#ctor(System.String)
+  fullName: Lab03.Geom_Figure.Geom_Figure(System.String)
+  nameWithType: Geom_Figure.Geom_Figure(String)
+- uid: Lab03.Geom_Figure.#ctor(System.String,System.String)
+  name: Geom_Figure(String, String)
+  href: api/Lab03.Geom_Figure.html#Lab03_Geom_Figure__ctor_System_String_System_String_
+  commentId: M:Lab03.Geom_Figure.#ctor(System.String,System.String)
+  fullName: Lab03.Geom_Figure.Geom_Figure(System.String, System.String)
+  nameWithType: Geom_Figure.Geom_Figure(String, String)
+- uid: Lab03.Geom_Figure.#ctor(System.String,System.String,System.Double,System.Double)
+  name: Geom_Figure(String, String, Double, Double)
+  href: api/Lab03.Geom_Figure.html#Lab03_Geom_Figure__ctor_System_String_System_String_System_Double_System_Double_
+  commentId: M:Lab03.Geom_Figure.#ctor(System.String,System.String,System.Double,System.Double)
+  fullName: Lab03.Geom_Figure.Geom_Figure(System.String, System.String, System.Double, System.Double)
+  nameWithType: Geom_Figure.Geom_Figure(String, String, Double, Double)
+- uid: Lab03.Geom_Figure.#ctor*
+  name: Geom_Figure
+  href: api/Lab03.Geom_Figure.html#Lab03_Geom_Figure__ctor_
+  commentId: Overload:Lab03.Geom_Figure.#ctor
+  isSpec: "True"
+  fullName: Lab03.Geom_Figure.Geom_Figure
+  nameWithType: Geom_Figure.Geom_Figure
+- uid: Lab03.Geom_Figure.ColorG
+  name: ColorG
+  href: api/Lab03.Geom_Figure.html#Lab03_Geom_Figure_ColorG
+  commentId: P:Lab03.Geom_Figure.ColorG
+  fullName: Lab03.Geom_Figure.ColorG
+  nameWithType: Geom_Figure.ColorG
+- uid: Lab03.Geom_Figure.ColorG*
+  name: ColorG
+  href: api/Lab03.Geom_Figure.html#Lab03_Geom_Figure_ColorG_
+  commentId: Overload:Lab03.Geom_Figure.ColorG
+  isSpec: "True"
+  fullName: Lab03.Geom_Figure.ColorG
+  nameWithType: Geom_Figure.ColorG
+- uid: Lab03.Geom_Figure.NameG
+  name: NameG
+  href: api/Lab03.Geom_Figure.html#Lab03_Geom_Figure_NameG
+  commentId: P:Lab03.Geom_Figure.NameG
+  fullName: Lab03.Geom_Figure.NameG
+  nameWithType: Geom_Figure.NameG
+- uid: Lab03.Geom_Figure.NameG*
+  name: NameG
+  href: api/Lab03.Geom_Figure.html#Lab03_Geom_Figure_NameG_
+  commentId: Overload:Lab03.Geom_Figure.NameG
+  isSpec: "True"
+  fullName: Lab03.Geom_Figure.NameG
+  nameWithType: Geom_Figure.NameG
+- uid: Lab03.Geom_Figure.Print
+  name: Print()
+  href: api/Lab03.Geom_Figure.html#Lab03_Geom_Figure_Print
+  commentId: M:Lab03.Geom_Figure.Print
+  fullName: Lab03.Geom_Figure.Print()
+  nameWithType: Geom_Figure.Print()
+- uid: Lab03.Geom_Figure.Print*
+  name: Print
+  href: api/Lab03.Geom_Figure.html#Lab03_Geom_Figure_Print_
+  commentId: Overload:Lab03.Geom_Figure.Print
+  isSpec: "True"
+  fullName: Lab03.Geom_Figure.Print
+  nameWithType: Geom_Figure.Print
+- uid: Lab03.Square
+  name: Square
+  href: api/Lab03.Square.html
+  commentId: T:Lab03.Square
+  fullName: Lab03.Square
+  nameWithType: Square
+- uid: Lab03.Square.#ctor
+  name: Square()
+  href: api/Lab03.Square.html#Lab03_Square__ctor
+  commentId: M:Lab03.Square.#ctor
+  fullName: Lab03.Square.Square()
+  nameWithType: Square.Square()
+- uid: Lab03.Square.#ctor(System.Double)
+  name: Square(Double)
+  href: api/Lab03.Square.html#Lab03_Square__ctor_System_Double_
+  commentId: M:Lab03.Square.#ctor(System.Double)
+  fullName: Lab03.Square.Square(System.Double)
+  nameWithType: Square.Square(Double)
+- uid: Lab03.Square.#ctor(System.Double,System.String)
+  name: Square(Double, String)
+  href: api/Lab03.Square.html#Lab03_Square__ctor_System_Double_System_String_
+  commentId: M:Lab03.Square.#ctor(System.Double,System.String)
+  fullName: Lab03.Square.Square(System.Double, System.String)
+  nameWithType: Square.Square(Double, String)
+- uid: Lab03.Square.#ctor(System.Double,System.String,System.String)
+  name: Square(Double, String, String)
+  href: api/Lab03.Square.html#Lab03_Square__ctor_System_Double_System_String_System_String_
+  commentId: M:Lab03.Square.#ctor(System.Double,System.String,System.String)
+  fullName: Lab03.Square.Square(System.Double, System.String, System.String)
+  nameWithType: Square.Square(Double, String, String)
+- uid: Lab03.Square.#ctor(System.Double,System.String,System.String,System.Double,System.Double)
+  name: Square(Double, String, String, Double, Double)
+  href: api/Lab03.Square.html#Lab03_Square__ctor_System_Double_System_String_System_String_System_Double_System_Double_
+  commentId: M:Lab03.Square.#ctor(System.Double,System.String,System.String,System.Double,System.Double)
+  fullName: Lab03.Square.Square(System.Double, System.String, System.String, System.Double, System.Double)
+  nameWithType: Square.Square(Double, String, String, Double, Double)
+- uid: Lab03.Square.#ctor*
+  name: Square
+  href: api/Lab03.Square.html#Lab03_Square__ctor_
+  commentId: Overload:Lab03.Square.#ctor
+  isSpec: "True"
+  fullName: Lab03.Square.Square
+  nameWithType: Square.Square
+- uid: Lab03.Square.Print
+  name: Print()
+  href: api/Lab03.Square.html#Lab03_Square_Print
+  commentId: M:Lab03.Square.Print
+  fullName: Lab03.Square.Print()
+  nameWithType: Square.Print()
+- uid: Lab03.Square.Print*
+  name: Print
+  href: api/Lab03.Square.html#Lab03_Square_Print_
+  commentId: Overload:Lab03.Square.Print
+  isSpec: "True"
+  fullName: Lab03.Square.Print
+  nameWithType: Square.Print
